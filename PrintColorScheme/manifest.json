@@ -1,0 +1,12 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/nike4613/ModSaber-MetadataFileSchema/master/Schema.json",
+  "author": "aerotuna",
+  "description": "",
+  "gameVersion": "1.13.0",
+  "id": "PrintColorScheme",
+  "name": "PrintColorScheme",
+  "version": "0.0.1-alpha",
+  "dependsOn": {
+    "BSIPA": "^4.1.3"
+  }
+}
