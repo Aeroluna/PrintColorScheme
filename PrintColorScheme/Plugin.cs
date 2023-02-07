@@ -29,7 +29,7 @@
         [OnDisable]
         public void OnDisable()
         {
-            _harmonyInstance.UnpatchAll(HARMONYID);
+            _harmonyInstance.UnpatchSelf();
         }
     }
 }
